@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate for more backend projects
-
-- 🤝 I’m looking for help to enhance my skills
+- 👯 I’m looking to collaborate on **Backend Projects**
 
 - 💬 Ask me about **Node.js, JavaScript, MongoDB**
 
