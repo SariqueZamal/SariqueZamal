@@ -1,14 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sarique</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ead691fd547595a2714fb04ddc86273a386d4f053001edda5c42678b52f4262/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c384b36326954446b7a4758362f67697068792e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sariquezamal&label=Profile%20views&color=0e75b6&style=flat" alt="sariquezamal" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
+- 👯 I’m looking to collaborate for more backend projects
+
+- 🤝 I’m looking for help to enhance my skills
+
 - 💬 Ask me about **Node.js, JavaScript, MongoDB**
 
 - 📫 How to reach me **sariquezamal0@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
